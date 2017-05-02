@@ -1,6 +1,1 @@
-# lunwen
-ddddtest777
-<<<<<<< HEAD
-this is my first
-=======
->>>>>>> af1aac44b0bdf914194be89d7f787096a5f25631
+# Graduation thesis 2016/5
